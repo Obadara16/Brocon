@@ -7,6 +7,7 @@ import service3 from '../images/service3.jpg'
 const Services = () => {
   return (
     <section id='services'>
+        <p></p>
         <div className="services__container">
             <header className="service__header">
                 <h2>Become a Part of the Team</h2>
